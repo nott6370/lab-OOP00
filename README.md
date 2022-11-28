@@ -1,4 +1,5 @@
 LAB0
-นายจารุวิทย์ แสงแก้วสิริกุล
-653450086-7
-jaruvit.s@kkumail.com
+work lab0
+name : นายจารุวิทย์ แสงแก้วสิริกุล
+id : 653450086-7
+email : jaruvit.s@kkumail.com
